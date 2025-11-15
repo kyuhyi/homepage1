@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Sitemap: https://ai-vibecoding.vercel.app/sitemap.xml
+
+# Crawl-delay for respectful crawling
+Crawl-delay: 1
+
+# Block sensitive paths (if any in the future)
+# Disallow: /api/
+# Disallow: /admin/
